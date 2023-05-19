@@ -9,3 +9,8 @@ The following steps were taking:
 
 The following are the snapshots of the sites when it ran:
 
+![Screenshot from 2023-05-17 23-53-29](https://github.com/husseinalamutu/wordpress-tf/assets/94724734/0ca3936a-c2fe-45c7-9e24-4b2d6939850a)
+![Screenshot from 2023-05-17 23-54-31](https://github.com/husseinalamutu/wordpress-tf/assets/94724734/7163d437-0bb5-48a2-a4bd-1f18f7364d0c)
+![Screenshot from 2023-05-17 23-54-41](https://github.com/husseinalamutu/wordpress-tf/assets/94724734/c6de3bd5-6a83-4439-baa5-20b78c4bba2e)
+![Screenshot from 2023-05-18 03-01-05](https://github.com/husseinalamutu/wordpress-tf/assets/94724734/3ea785a2-c29f-4a87-85a2-dbbe22070e6f)
+![Screenshot from 2023-05-18 03-11-25](https://github.com/husseinalamutu/wordpress-tf/assets/94724734/d8c176c6-135d-494a-ab24-531d91850fa1)
